@@ -30,4 +30,4 @@ def dispatcher(self, action, **kwargs):
     if action == "delete":
         return delete_employees(**kwargs)
     if action == "healthCheck":
-        return {"health": "OK"}
+        return {"healthcheck": "OK"}
