@@ -4,7 +4,7 @@ import logging
 from configuration.config import Config
 from uuid import uuid4
 
-database = [{"id": "1", "name": "fangzhigang", "address": "china", "idNo": "888999", "age": "23", "sex": "male"},
+database = [{"id": "1", "name": "TONYWANG", "address": "china", "idNo": "888999", "age": "23", "sex": "male"},
             {"id": "2", "name": "mike", "address": "usa", "idNo": "555666", "age": "30", "sex": "female"}]
 
 
